@@ -1,0 +1,4 @@
+com\asia\mq\Message.class
+com\asia\mq\RmqEncapsulation.class
+com\asia\mq\Message$MessageBuilder.class
+com\asia\TestController.class
